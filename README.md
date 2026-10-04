@@ -4,7 +4,7 @@ A modern, interactive single-page portfolio website showcasing my work as a Full
 
 ## Live Demo
 
-[View Live Portfolio](https://goken-byte.github.io/About-Me/)
+[View Live Portfolio](https://github.com/godwillkenyi/About-Me.git)
 
 ## Features
 
@@ -46,7 +46,7 @@ About-Me/
 
 1. Clone the repository
 
-   git clone https://github.com/Goken-byte/About-Me.git
+   git clone [https://github.com/godwillkenyi/About-Me.git](https://github.com/godwillkenyi/About-Me.git)
 
 2. Navigate to the project directory
 
@@ -113,7 +113,7 @@ Edit the CSS custom properties in :root inside index.html.
 2. Go to Settings > Pages
 3. Under Source, select main branch and /root folder
 4. Click Save
-5. Your site will be live at https://goken-byte.github.io/About-Me/
+5. Your site will be live at https://github.com/godwillkenyi/About-Me.git
 
 ## Contributing
 
@@ -133,10 +133,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Godwill Ken
 
-- Email: godwillke@gmail.com
-- Phone: +211-926-116-537
+- Email: testapps065@gmail.com 
 - Location: Juba, South Sudan
-- GitHub: https://github.com/Goken-byte
+- GitHub: https://github.com/godwillkenyi
 
 ## Acknowledgments
 
